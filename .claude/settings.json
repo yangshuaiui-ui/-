@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"/Users/yangyangshuai/Desktop/开发项目/001/.claude/agents\")",
+      "Bash(cp \"/Users/yangyangshuai/Desktop/开发项目/001/subagents/\"*.md \"/Users/yangyangshuai/Desktop/开发项目/001/.claude/agents/\")",
+      "Bash(mkdir -p /Users/yangyangshuai/Desktop/开发项目/001/.claude/commands)",
+      "Bash(cp /Users/yangyangshuai/Desktop/开发项目/001/my-skills-backup/__TRACKED_VAR__/SKILL.md /Users/yangyangshuai/Desktop/开发项目/001/.claude/commands/__TRACKED_VAR__.md)",
+      "Bash(npm create *)",
+      "Bash(/Users/yangyangshuai/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node --version)",
+      "Bash(/Users/yangyangshuai/Documents/Codex/2026-05-27/ai-agent-productos-local-1-anythingllm/.tooling/npm/bin/npm --version)",
+      "Bash(/Users/yangyangshuai/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node /Users/yangyangshuai/Documents/Codex/2026-05-27/ai-agent-productos-local-1-anythingllm/.tooling/npm/index.js --version)",
+      "Bash(/Users/yangyangshuai/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node /Users/yangyangshuai/Documents/Codex/2026-05-27/ai-agent-productos-local-1-anythingllm/.tooling/npm/index.js create vite@latest balatro -- --template vue-ts)",
+      "Bash(/Users/yangyangshuai/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node /Users/yangyangshuai/Documents/Codex/2026-05-27/ai-agent-productos-local-1-anythingllm/.tooling/npm/index.js install)",
+      "Bash(/Users/yangyangshuai/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node /Users/yangyangshuai/Documents/Codex/2026-05-27/ai-agent-productos-local-1-anythingllm/.tooling/npm/index.js install gsap tailwindcss @tailwindcss/vite)",
+      "Bash(sed -i '' \"s/{ name: '小盲注', icon: '👁️'/{ name: '小盲注', icon: '🔵'/\" \"/Users/yangyangshuai/Desktop/开发项目/001/balatro/src/composables/useGame.ts\")",
+      "Bash(sed -i '' \"s/{ name: '中盲注', icon: '👁️‍🗨️'/{ name: '中盲注', icon: '🟡'/\" \"/Users/yangyangshuai/Desktop/开发项目/001/balatro/src/composables/useGame.ts\")",
+      "Bash(sed -i '' \"s/{ name: '大盲注', icon: '🕵️'/{ name: '大盲注', icon: '🔴'/\" \"/Users/yangyangshuai/Desktop/开发项目/001/balatro/src/composables/useGame.ts\")",
+      "Bash(sed -i '' \"s/gold: 4,/gold: 0,/\" \"/Users/yangyangshuai/Desktop/开发项目/001/balatro/src/composables/useGame.ts\")",
+      "Bash(~/.local/bin/node ~/.local/bin/npm --version)",
+      "Bash(nvm use *)",
+      "Bash(/Users/yangyangshuai/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node /Users/yangyangshuai/Desktop/开发项目/001/balatro/node_modules/.bin/vue-tsc -b --noEmit)",
+      "Bash(/Users/yangyangshuai/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node node_modules/.bin/vue-tsc -b --noEmit)",
+      "Bash(sed -i '' 's/import { sleep, flyElementToTarget, flyTextTo, animateCounter } from '\\\\''.\\\\/composables\\\\/useAnimation'\\\\''/import { sleep, flyElementToTarget, flyTextTo } from '\\\\''.\\\\/composables\\\\/useAnimation'\\\\''/' /Users/yangyangshuai/Desktop/开发项目/001/balatro/src/App.vue)",
+      "Bash(sed -i '' 's/await handleDiscard\\(async \\(discarded\\) => {/await handleDiscard\\(async \\(\\) => {/' /Users/yangyangshuai/Desktop/开发项目/001/balatro/src/App.vue)",
+      "Bash(sed -i '' 's/import { ref, onMounted, onUpdated } from '\\\\''vue'\\\\''/import { ref } from '\\\\''vue'\\\\''/' /Users/yangyangshuai/Desktop/开发项目/001/balatro/src/components/JokerArea.vue)",
+      "Bash(python3 -c ' *)",
+      "Bash(sed -i '' 's/import { reactive, computed, ref } from '\\\\''vue'\\\\''/import { reactive, computed } from '\\\\''vue'\\\\''/' /Users/yangyangshuai/Desktop/开发项目/001/balatro/src/composables/useGame.ts)",
+      "Bash(/Users/yangyangshuai/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node node_modules/.bin/vite build)",
+      "Bash(/Users/yangyangshuai/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node node_modules/.bin/vite --port 5173)",
+      "Bash(curl -s http://localhost:5173)"
+    ]
+  }
+}
